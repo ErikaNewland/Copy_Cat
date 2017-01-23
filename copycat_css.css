@@ -27,6 +27,22 @@ header {
   margin: 10px;
 }
 
+.form {
+  width: 300px;
+}
+
+fieldset {
+  width: 300px;
+  text-align: center;
+  position: relative;
+}
+
+textarea {
+  width: 200px;
+  min-height: 25px;
+}
+
+
 footer{
   text-align: center;
 }
