@@ -1,0 +1,32 @@
+header {
+  text-align: center;
+}
+
+.dashboard {
+  text-align: center;
+  margin: 10px;
+}
+
+#calendar {
+  display: inline-block;
+  position: relative;
+  min-height: 200px;;
+  width: 300px;
+  background-color: #d2f5ea;
+  border-radius: 6px;
+  margin: 10px;
+}
+
+#boat_projects {
+  display: inline-block;
+  position: relative;
+  min-height: 200px;
+  width: 300px;
+  background-color: rgba(183, 234, 202, 0.92);
+  border-radius: 6px;
+  margin: 10px;
+}
+
+footer{
+  text-align: center;
+}
