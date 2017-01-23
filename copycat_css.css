@@ -28,11 +28,13 @@ header {
 }
 
 .form {
-  width: 300px;
+  width: 310px;
+  margin: 0 auto;
 }
 
 fieldset {
   width: 300px;
+  margin: 0 auto;
   text-align: center;
   position: relative;
 }
